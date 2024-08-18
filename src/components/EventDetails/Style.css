@@ -1,0 +1,72 @@
+.event{
+    margin-top: 30px;
+}
+
+.deletebtn {
+  margin-top: 20px;
+  margin-left: 10px;
+  padding: 8px;
+  font-size: 18px;
+  border-radius: 10px;
+
+  font-weight: 600;
+  border: 2px solid black;
+  cursor: pointer;
+  background-color: red;
+  width: 200px;
+  color: #fff;
+}
+
+.deletebtn:hover {
+  background-color: rgb(165, 3, 3);
+  cursor: pointer;
+ 
+}
+
+.editbtn{
+    margin-top: 20px;
+    margin-left: 10px;
+    padding: 8px;
+    font-size: 18px;
+    border-radius: 10px;
+    font-weight: 600;
+    border: 2px solid black;
+    cursor: pointer;
+    background-color:rgb(15, 81, 59);
+    width: 100px;
+    color: #fff;
+}
+
+.savebtn{
+    margin-top: 20px;
+    margin-left: 10px;
+    padding: 8px;
+    font-size: 18px;
+    border-radius: 10px;
+    font-weight: 600;
+    border: 2px solid black;
+    cursor: pointer;
+    background-color:rgb(2, 47, 99);
+    width: 100px;
+    color: #fff;
+}
+
+.event-date{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.event-date button{
+    margin-top: 20px;
+    margin-left: 10px;
+    padding: 8px;
+    font-size: 18px;
+    border-radius: 10px;
+    font-weight: 600;
+    border: 2px solid white;
+    cursor: pointer;
+    background-color:rgb(0, 202, 233);
+    width: 23vw;
+    color: #000;
+}

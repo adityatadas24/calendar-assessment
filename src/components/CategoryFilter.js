@@ -3,7 +3,7 @@ import React from "react";
 const CategoryFilter = ({ selectedCategory, onChange }) => {
   return (
     <div>
-      <label style={{ fontSize: "20px", fontWeight: "600" }} htmlFor="category">
+      <label style={{ fontSize: "18px", fontWeight: "600" }} htmlFor="category">
         Filter by Category:{" "}
       </label>
       <select
